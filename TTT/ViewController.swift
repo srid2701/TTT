@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
         label.text = "TIC TAC TOE!"
-        label.font = UIFont(name: "Arial Rounded MT Bold", size: 50)
+        label.font = UIFont(name: "Marker Felt", size: 70)
         label.textAlignment = .center
         label.textColor = .systemIndigo
         
